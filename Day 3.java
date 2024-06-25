@@ -1,4 +1,4 @@
-// Day 3 of Leetcode Challange
+// Day 3 of 30 Days Leetcode.
 
 // Problem Number 1038: Binary Search Tree to Greater Search Tree
 
